@@ -34,6 +34,7 @@ Data Reader  is a Streamlit-based web application that enables users to secure
 # Install Dependencies
 pip install -r requirements.txt
 
-**Run the Application**
+# Run the Application
 streamlit run data7.py
+python -m streamlit run data7.py
 
