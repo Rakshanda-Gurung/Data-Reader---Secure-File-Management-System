@@ -10,10 +10,10 @@ Data Reader  is a Streamlit-based web application that enables users to secure
 
  # File Management (CRUD)
 - **Create** – Upload and securely store files
-- **Read**– Preview files after PIN verification
+- **Read** – Preview files after PIN verification
 - **Update** – Edit text, document, PDF, and image files
-- **Delete**– Secure file deletion with preview
-- **Search**– Search files by name
+- **Delete** – Secure file deletion with preview
+- **Search** – Search files by name
 
  # Supported File Formats
 - Text files (.txt)
