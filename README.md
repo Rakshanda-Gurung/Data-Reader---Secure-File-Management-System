@@ -36,4 +36,4 @@ pip install -r requirements.txt
 
 **Run the Application**
 streamlit run data7.py
-python -m streamlit run data7.py
+
