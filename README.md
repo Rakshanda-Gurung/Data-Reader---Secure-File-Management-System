@@ -21,12 +21,6 @@ Data Reader  is a Streamlit-based web application that enables users to secure
 - Word documents (.docx)
 - Images (.jpg, .jpeg, .png)
   
- # Image Editing Capabilities
-- Adjust brightness, contrast, and sharpness
-- Apply blur effects
-- Add multiple text layers with alignment options
-- Preview edited images before download
-
  # Tech Stack
 - **Python**
 - **Streamlit** – Web application framework
