@@ -32,7 +32,7 @@ Data Reader  is a Streamlit-based web application that enables users to secure
 - **BytesIO** – In-memory file handling
 
 # Install Dependencies
-\\\ pip install -r requirements.txt
+- pip install -r requirements.txt
 
 # Run the Application
 - streamlit run data7.py
